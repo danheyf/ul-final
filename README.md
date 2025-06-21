@@ -37,7 +37,7 @@ The project uses soccer data from Transfermarkt including:
 
 ## Getting Started
 
-1. Open `soccer_player_valuation_analysis.ipynb` in Jupyter Notebook
+1. Open `soccer_player_valuation.ipynb` in Jupyter Notebook
 2. Install required packages: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 3. Run all cells to reproduce the complete analysis
 
